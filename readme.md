@@ -11,3 +11,12 @@
 - 📫 How to reach me: [Whatsapp](https://api.whatsapp.com/send?phone=5588999297262&text=Ol%C3%A1) | [Linkedin](https://www.linkedin.com/in/rogeriofilho/) | [Facebook](https://www.facebook.com/rogerioalencar) 
 - ⚡ Fun fact: I'm on a diet.
 
+<br />
+<br />
+
+
+```Javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+
+>>> [ '🐔', '🐣', '🐥', '🥚' ]

@@ -1,9 +1,9 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> <img align="right" alt="QRCode Linkedin" src="https://qrclincode.herokuapp.com/qrcode/logo/logo1?url=https://www.linkedin.com/in/rogeriofilho&color=2F9681&background=ffffff&width=160" />
+
+
 
 <br />
 <img align="right" width="420" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<img align="right" alt="QRCode Linkedin" src="https://qrclincode.herokuapp.com/qrcode/logo/logo1?url=https://www.linkedin.com/in/rogeriofilho&color=2F9681&background=ffffff&width=50" />
-
 
 
 ### I am Rogerio Alencar Filho, Full Stack Web Developer.

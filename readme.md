@@ -1,6 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> <img align="right" alt="QRCode Linkedin" src="https://qrclincode.herokuapp.com/qrcode/logo/logo1?url=https://www.linkedin.com/in/rogeriofilho&color=2F9681&background=ffffff&width=160" />
-
-
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <br />
 <img align="right" width="420" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
@@ -15,6 +13,9 @@
 - ⚡ Fun fact: I'm on a diet.
 
 <br />
+ <img align="center" alt="QRCode Linkedin" src="https://qrclincode.herokuapp.com/qrcode/logo/logo1?url=https://www.linkedin.com/in/rogeriofilho&color=2F9681&background=ffffff&width=160" />
+
+
 <br />
 
 

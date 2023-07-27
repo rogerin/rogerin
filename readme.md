@@ -12,8 +12,6 @@
 - 📫 How to reach me: [Whatsapp](https://api.whatsapp.com/send?phone=5588999297262&text=Ol%C3%A1) | [Linkedin](https://www.linkedin.com/in/rogeriofilho/) | [Facebook](https://www.facebook.com/rogerioalencar) 
 - ⚡ Fun fact: I'm on a diet.
 
-<br />
- <img align="center" alt="QRCode Linkedin" src="https://qrclincode.herokuapp.com/qrcode/logo/logo1?url=https://www.linkedin.com/in/rogeriofilho&color=2F9681&background=ffffff&width=160" />
 
 
 <br />

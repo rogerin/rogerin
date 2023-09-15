@@ -6,12 +6,15 @@
 
 ### I am Rogerio Alencar Filho, Full Stack Web Developer.
 
-- 🔭 I am currently studying integration with PIX API 
-- 🌱 I’m currently learning React, React Native.
-- 💬 Ask me about web and mobile developer.
-- 📫 How to reach me: [Whatsapp](https://api.whatsapp.com/send?phone=5588999297262&text=Ol%C3%A1) | [Linkedin](https://www.linkedin.com/in/rogeriofilho/) | [Facebook](https://www.facebook.com/rogerioalencar) 
-- ⚡ Fun fact: I'm on a diet.
-
+👨🏽‍💻 [KeyCore • Software House](https://www.instagram.com/keycore.sh/)  
+🚀 @maeeducaa EduTech  
+🚀 @gilberthealthtech HealthTech  
+🚀 TaMassa MobiTech  
+🚀 @IoT.Data IndTech  
+🍕 Hobby: Hackathon and cooking
+🤖 IoT lover  
+📫 Social: [Linkedin](https://www.linkedin.com/in/rogeriofilho/) | [Facebook](https://www.facebook.com/rogerioalencar) | | [E-mail](mailto:geriofilho@gmail.com)  
+⚡ Fun fact: I'm on a diet.
 
 
 <br />

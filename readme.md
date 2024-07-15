@@ -13,7 +13,7 @@
 🚀 [@IoT.Data IndTech](https://www.instagram.com/iot.data/)  
 🍕 Hobby: Hackathon and cooking
 🤖 IoT lover  
-📫 Social: [Linkedin](https://www.linkedin.com/in/rogeriofilho/) | [Facebook](https://www.facebook.com/rogerioalencar) | | [E-mail](mailto:geriofilho@gmail.com)  
+📫 Social: [Instagram](https://www.instagram.com/rogerioalencarfilho/) | [Linkedin](https://www.linkedin.com/in/rogeriofilho/) | [Facebook](https://www.facebook.com/rogerioalencar) | [E-mail](mailto:geriofilho@gmail.com)  
 ⚡ Fun fact: I'm on a diet.
 
 

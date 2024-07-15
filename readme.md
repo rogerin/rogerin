@@ -6,11 +6,11 @@
 
 ### I am Rogerio Alencar Filho, Full Stack Web Developer.
 
-👨🏽‍💻 [KeyCore • Software House](https://www.instagram.com/keycore.sh/)  
-🚀 @maeeducaa EduTech  
-🚀 @gilberthealthtech HealthTech  
+👨🏽‍💻 [KeyCore • IoT and Software House](https://www.instagram.com/keycore.sh/)  
+🚀 [@maeeducaa EduTech](https://www.instagram.com/maeeducaa/)  
+🚀 [@DogShipBR Tech & Care](https://dogship.com.br)  
 🚀 TaMassa MobiTech  
-🚀 @IoT.Data IndTech  
+🚀 [@IoT.Data IndTech](https://www.instagram.com/iot.data/)  
 🍕 Hobby: Hackathon and cooking
 🤖 IoT lover  
 📫 Social: [Linkedin](https://www.linkedin.com/in/rogeriofilho/) | [Facebook](https://www.facebook.com/rogerioalencar) | | [E-mail](mailto:geriofilho@gmail.com)  

@@ -6,6 +6,7 @@
 
 [![KeyCore Tech Hub](https://img.shields.io/badge/KeyCore_Tech_Hub-keycore.com.br-00DEFE?style=for-the-badge&labelColor=0E002A)](https://keycore.com.br)
 [![Instagram](https://img.shields.io/badge/@keycore.hub-FE00CD?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0E002A)](https://www.instagram.com/keycore.hub/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rogeriofilho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0E002A)](https://www.linkedin.com/in/rogeriofilho/)
 [![Recife](https://img.shields.io/badge/Recife-Brasil-10B981?style=for-the-badge&labelColor=0E002A)](#)
 
 </div>

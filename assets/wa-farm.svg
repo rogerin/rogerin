@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380" role="img" aria-labelledby="title desc">
+  <title id="title">wa-farm</title>
+  <desc id="desc">Comparativo de uso de memória do wa-farm contra o emulador Android padrão.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0E002A"/><stop offset="1" stop-color="#1B0645"/></linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00DEFE"/><stop offset="1" stop-color="#FE00CD"/></linearGradient>
+    <linearGradient id="brandv" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#00DEFE"/><stop offset="1" stop-color="#FE00CD"/></linearGradient>
+  </defs>
+  <style>
+    text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+    .h{font-size:22px;font-weight:800;fill:#F5F7FF}
+    .s{font-size:14px;fill:#B9B3D9}
+    .l{font-size:15px;font-weight:600;fill:#F5F7FF}
+    .m{font-size:13px;fill:#B9B3D9}
+    .v{font-size:15px;font-weight:800;fill:#F5F7FF}
+    .grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.3s cubic-bezier(.2,.8,.2,1) both}
+    .growy{transform-box:fill-box;transform-origin:center bottom;animation:growy 1.2s cubic-bezier(.2,.8,.2,1) both}
+    .fade{animation:fade .8s ease-out both}
+    @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    @keyframes growy{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+    @keyframes fade{from{opacity:0}to{opacity:1}}
+</style>
+  <rect width="900" height="380" rx="16" fill="url(#bg)"/>
+  <rect x="0" y="0" width="900" height="4" rx="2" fill="url(#brand)"/>
+  <text class="h" x="36" y="50" style="font-size:26px">📱 wa-farm</text>
+  <rect x="182" y="31" width="128" height="26" rx="13" fill="#10B981" fill-opacity=".15" stroke="#10B981"/>
+  <text x="246" y="49" text-anchor="middle" style="font-size:12px;font-weight:700;fill:#10B981">open source · MIT</text>
+  <text class="s" x="36" y="80">Fazenda de emuladores Android ultra-leve para operar várias contas de WhatsApp</text>
+  <text class="s" x="36" y="100">em integrações como Evolution API, WAHA e Baileys, sem uma pilha de celulares na tomada.</text>
+  <text class="l" x="36" y="140" style="fill:#00DEFE">RAM por instância</text>
+  <text class="m" x="36" y="170">Emulador padrão (Android Studio)</text>
+  <rect class="grow" style="animation-delay:0.20s" x="330" y="156" width="440.0" height="20" rx="10" fill="#4B4370"/>
+  <text class="v fade" style="animation-delay:1.10s" x="780.0" y="171">4,2 GB</text>
+  <text class="m" x="36" y="200">wa-farm (perfil ultra-low-RAM)</text>
+  <rect class="grow" style="animation-delay:0.35s" x="330" y="186" width="89.0" height="20" rx="10" fill="url(#brand)"/>
+  <text class="v fade" style="animation-delay:1.25s" x="429.0" y="201">~850 MB</text>
+  <text class="l" x="36" y="236" style="fill:#00DEFE">7 contas de WhatsApp</text>
+  <text class="m" x="36" y="266">Emulador padrão</text>
+  <rect class="grow" style="animation-delay:0.50s" x="330" y="252" width="440.0" height="20" rx="10" fill="#4B4370"/>
+  <text class="v fade" style="animation-delay:1.40s" x="780.0" y="267">~28 GB</text>
+  <text class="m" x="36" y="296">wa-farm · todas ligadas</text>
+  <rect class="grow" style="animation-delay:0.65s" x="330" y="282" width="97.4" height="20" rx="10" fill="url(#brand)"/>
+  <text class="v fade" style="animation-delay:1.55s" x="437.4" y="297">~6,2 GB</text>
+  <text class="m" x="36" y="326">wa-farm · sob demanda + heartbeat</text>
+  <rect class="grow" style="animation-delay:0.80s" x="330" y="312" width="13.4" height="20" rx="10" fill="url(#brand)"/>
+  <text class="v fade" style="animation-delay:1.70s" x="353.4" y="327">&lt; 1 GB</text>
+  <text class="fade" style="animation-delay:1.6s;font-size:30px;font-weight:800" x="864" y="56" text-anchor="end" fill="url(#brand)">−78%</text>
+  <text class="m fade" style="animation-delay:1.6s" x="864" y="76" text-anchor="end">de RAM por instância</text>
+  <text class="m" x="36" y="358">Shell · ADB · QEMU · AOSP sem Play Services · modo headless · macOS Apple Silicon e Linux KVM</text>
+</svg>

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="522" viewBox="0 0 900 522" role="img" aria-labelledby="title desc">
+  <title id="title">Projetos privados por categoria</title>
+  <desc id="desc">Distribuição aproximada dos repositórios privados por tipo de projeto.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0E002A"/><stop offset="1" stop-color="#1B0645"/></linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00DEFE"/><stop offset="1" stop-color="#FE00CD"/></linearGradient>
+    <linearGradient id="brandv" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#00DEFE"/><stop offset="1" stop-color="#FE00CD"/></linearGradient>
+  </defs>
+  <style>
+    text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+    .h{font-size:22px;font-weight:800;fill:#F5F7FF}
+    .s{font-size:14px;fill:#B9B3D9}
+    .l{font-size:15px;font-weight:600;fill:#F5F7FF}
+    .m{font-size:13px;fill:#B9B3D9}
+    .v{font-size:15px;font-weight:800;fill:#F5F7FF}
+    .grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.3s cubic-bezier(.2,.8,.2,1) both}
+    .growy{transform-box:fill-box;transform-origin:center bottom;animation:growy 1.2s cubic-bezier(.2,.8,.2,1) both}
+    .fade{animation:fade .8s ease-out both}
+    @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    @keyframes growy{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+    @keyframes fade{from{opacity:0}to{opacity:1}}
+</style>
+  <rect width="900" height="522" rx="16" fill="url(#bg)"/>
+  <rect x="0" y="0" width="900" height="4" rx="2" fill="url(#brand)"/>
+  <text class="h" x="36" y="46">O que construo em projetos privados</text>
+  <text class="s" x="36" y="70">~110 repositórios privados por categoria · nomes de clientes e produtos omitidos</text>
+  <text class="l" x="36" y="111">IA aplicada e agentes</text>
+  <text class="m" x="36" y="128">documentos, jurídico, voz, conteúdo</text>
+  <rect x="360" y="100" width="470" height="22" rx="11" fill="#FFFFFF" fill-opacity=".05"/>
+  <rect class="grow" style="animation-delay:0.15s" x="360" y="100" width="470.0" height="22" rx="11" fill="url(#brand)"/>
+  <text class="v fade" style="animation-delay:1.05s" x="840.0" y="116">24</text>
+  <text class="l" x="36" y="155">Apps e plataformas digitais</text>
+  <text class="m" x="36" y="172">mobilidade, esporte, social, educação</text>
+  <rect x="360" y="144" width="470" height="22" rx="11" fill="#FFFFFF" fill-opacity=".05"/>
+  <rect class="grow" style="animation-delay:0.24s" x="360" y="144" width="352.5" height="22" rx="11" fill="url(#brand)"/>
+  <text class="v fade" style="animation-delay:1.14s" x="722.5" y="160">18</text>
+  <text class="l" x="36" y="199">IoT, hardware e telemetria</text>
+  <text class="m" x="36" y="216">sensores, MQTT, firmware, indústria</text>
+  <rect x="360" y="188" width="470" height="22" rx="11" fill="#FFFFFF" fill-opacity=".05"/>
+  <rect class="grow" style="animation-delay:0.33s" x="360" y="188" width="293.8" height="22" rx="11" fill="url(#brand)"/>
+  <text class="v fade" style="animation-delay:1.23s" x="663.8" y="204">15</text>
+  <text class="l" x="36" y="243">SaaS de gestão vertical</text>
+  <text class="m" x="36" y="260">academias, obras, hotelaria, equipes</text>
+  <rect x="360" y="232" width="470" height="22" rx="11" fill="#FFFFFF" fill-opacity=".05"/>
+  <rect class="grow" style="animation-delay:0.42s" x="360" y="232" width="293.8" height="22" rx="11" fill="url(#brand)"/>
+  <text class="v fade" style="animation-delay:1.32s" x="663.8" y="248">15</text>
+  <text class="l" x="36" y="287">Educação e workshops</text>
+  <text class="m" x="36" y="304">cursos, trilhas, hackathons</text>
+  <rect x="360" y="276" width="470" height="22" rx="11" fill="#FFFFFF" fill-opacity=".05"/>
+  <rect class="grow" style="animation-delay:0.51s" x="360" y="276" width="195.8" height="22" rx="11" fill="url(#brand)"/>
+  <text class="v fade" style="animation-delay:1.41s" x="565.8" y="292">10</text>
+  <text class="l" x="36" y="331">Ferramentas e automação</text>
+  <text class="m" x="36" y="348">utilitários, backups, pipelines</text>
+  <rect x="360" y="320" width="470" height="22" rx="11" fill="#FFFFFF" fill-opacity=".05"/>
+  <rect class="grow" style="animation-delay:0.60s" x="360" y="320" width="195.8" height="22" rx="11" fill="url(#brand)"/>
+  <text class="v fade" style="animation-delay:1.50s" x="565.8" y="336">10</text>
+  <text class="l" x="36" y="375">Saúde e faturamento hospitalar</text>
+  <text class="m" x="36" y="392">glosas, recebíveis, observabilidade</text>
+  <rect x="360" y="364" width="470" height="22" rx="11" fill="#FFFFFF" fill-opacity=".05"/>
+  <rect class="grow" style="animation-delay:0.69s" x="360" y="364" width="176.2" height="22" rx="11" fill="url(#brand)"/>
+  <text class="v fade" style="animation-delay:1.59s" x="546.2" y="380">9</text>
+  <text class="l" x="36" y="419">Sites e presença digital</text>
+  <text class="m" x="36" y="436">institucionais e landing pages</text>
+  <rect x="360" y="408" width="470" height="22" rx="11" fill="#FFFFFF" fill-opacity=".05"/>
+  <rect class="grow" style="animation-delay:0.78s" x="360" y="408" width="97.9" height="22" rx="11" fill="url(#brand)"/>
+  <text class="v fade" style="animation-delay:1.68s" x="467.9" y="424">5</text>
+  <text class="l" x="36" y="463">Segurança e pentest</text>
+  <text class="m" x="36" y="480">testes de invasão e laboratórios</text>
+  <rect x="360" y="452" width="470" height="22" rx="11" fill="#FFFFFF" fill-opacity=".05"/>
+  <rect class="grow" style="animation-delay:0.87s" x="360" y="452" width="58.8" height="22" rx="11" fill="url(#brand)"/>
+  <text class="v fade" style="animation-delay:1.77s" x="428.8" y="468">3</text>
+</svg>

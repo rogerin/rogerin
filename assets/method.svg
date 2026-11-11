@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-labelledby="title desc">
+  <title id="title">Do café ao ganho operacional</title>
+  <desc id="desc">As seis etapas do método KeyCore.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0E002A"/><stop offset="1" stop-color="#1B0645"/></linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00DEFE"/><stop offset="1" stop-color="#FE00CD"/></linearGradient>
+    <linearGradient id="brandv" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#00DEFE"/><stop offset="1" stop-color="#FE00CD"/></linearGradient>
+  </defs>
+  <style>
+    text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+    .h{font-size:22px;font-weight:800;fill:#F5F7FF}
+    .s{font-size:14px;fill:#B9B3D9}
+    .l{font-size:15px;font-weight:600;fill:#F5F7FF}
+    .m{font-size:13px;fill:#B9B3D9}
+    .v{font-size:15px;font-weight:800;fill:#F5F7FF}
+    .grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.3s cubic-bezier(.2,.8,.2,1) both}
+    .growy{transform-box:fill-box;transform-origin:center bottom;animation:growy 1.2s cubic-bezier(.2,.8,.2,1) both}
+    .fade{animation:fade .8s ease-out both}
+    @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    @keyframes growy{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+    @keyframes fade{from{opacity:0}to{opacity:1}}
+</style>
+  <rect width="900" height="230" rx="16" fill="url(#bg)"/>
+  <rect x="0" y="0" width="900" height="4" rx="2" fill="url(#brand)"/>
+  <text class="h" x="36" y="46">Do café ao ganho operacional</text>
+  <text class="s" x="36" y="70">O método da KeyCore, aplicado em clientes e nos produtos que criamos em casa</text>
+  <path id="track" d="M90 120 H810" stroke="#FFFFFF" stroke-opacity=".12" stroke-width="4" fill="none"/>
+  <path d="M90 120 H810" stroke="url(#brand)" stroke-width="4" fill="none" stroke-dasharray="720" stroke-dashoffset="720"><animate attributeName="stroke-dashoffset" values="720;0;0" keyTimes="0;.7;1" dur="5s" repeatCount="indefinite"/></path>
+  <circle r="7" fill="#FFFFFF"><animateMotion dur="5s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;.7;1" calcMode="linear"><mpath href="#track"/></animateMotion></circle>
+  <circle cx="90" cy="120" r="26" fill="#0E002A" stroke="#4B4370" stroke-width="3">
+    <animate attributeName="stroke" values="#4B4370;#00DEFE;#00DEFE;#4B4370" keyTimes="0;0.001;.95;1" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="90" y="127" text-anchor="middle" style="font-size:20px">☕</text>
+  <text class="l" x="90" y="174" text-anchor="middle" style="font-size:14px">Café e</text>
+  <text class="l" x="90" y="192" text-anchor="middle" style="font-size:14px">contexto</text>
+  <circle cx="234" cy="120" r="26" fill="#0E002A" stroke="#4B4370" stroke-width="3">
+    <animate attributeName="stroke" values="#4B4370;#FE00CD;#FE00CD;#4B4370" keyTimes="0;0.140;.95;1" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="234" y="127" text-anchor="middle" style="font-size:20px">🔎</text>
+  <text class="l" x="234" y="174" text-anchor="middle" style="font-size:14px">Leitura de</text>
+  <text class="l" x="234" y="192" text-anchor="middle" style="font-size:14px">gargalos</text>
+  <circle cx="378" cy="120" r="26" fill="#0E002A" stroke="#4B4370" stroke-width="3">
+    <animate attributeName="stroke" values="#4B4370;#00DEFE;#00DEFE;#4B4370" keyTimes="0;0.280;.95;1" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="378" y="127" text-anchor="middle" style="font-size:20px">🧭</text>
+  <text class="l" x="378" y="174" text-anchor="middle" style="font-size:14px">Plano de</text>
+  <text class="l" x="378" y="192" text-anchor="middle" style="font-size:14px">transformação</text>
+  <circle cx="522" cy="120" r="26" fill="#0E002A" stroke="#4B4370" stroke-width="3">
+    <animate attributeName="stroke" values="#4B4370;#FE00CD;#FE00CD;#4B4370" keyTimes="0;0.420;.95;1" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="522" y="127" text-anchor="middle" style="font-size:20px">🛠️</text>
+  <text class="l" x="522" y="174" text-anchor="middle" style="font-size:14px">Execução com</text>
+  <text class="l" x="522" y="192" text-anchor="middle" style="font-size:14px">segurança</text>
+  <circle cx="666" cy="120" r="26" fill="#0E002A" stroke="#4B4370" stroke-width="3">
+    <animate attributeName="stroke" values="#4B4370;#00DEFE;#00DEFE;#4B4370" keyTimes="0;0.560;.95;1" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="666" y="127" text-anchor="middle" style="font-size:20px">⏱️</text>
+  <text class="l" x="666" y="174" text-anchor="middle" style="font-size:14px">Ganho</text>
+  <text class="l" x="666" y="192" text-anchor="middle" style="font-size:14px">operacional</text>
+  <circle cx="810" cy="120" r="26" fill="#0E002A" stroke="#4B4370" stroke-width="3">
+    <animate attributeName="stroke" values="#4B4370;#FE00CD;#FE00CD;#4B4370" keyTimes="0;0.700;.95;1" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="810" y="127" text-anchor="middle" style="font-size:20px">♻️</text>
+  <text class="l" x="810" y="174" text-anchor="middle" style="font-size:14px">Evolução</text>
+  <text class="l" x="810" y="192" text-anchor="middle" style="font-size:14px">contínua</text>
+</svg>

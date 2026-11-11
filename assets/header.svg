@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Rogério Alencar Filho · KeyCore Tech Hub</title>
+  <desc id="desc">CEO e fundador da KeyCore Tech Hub. Tecnologia que devolve tempo: IA aplicada, software sob medida, IoT e segurança.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0E002A"/>
+      <stop offset="1" stop-color="#1B0645"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00DEFE"/>
+      <stop offset="1" stop-color="#FE00CD"/>
+    </linearGradient>
+    <radialGradient id="glowC">
+      <stop offset="0" stop-color="#00DEFE" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#00DEFE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowM">
+      <stop offset="0" stop-color="#FE00CD" stop-opacity=".4"/>
+      <stop offset="1" stop-color="#FE00CD" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity=".05"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="320" rx="18"/></clipPath>
+    <clipPath id="typing">
+      <rect x="56" y="200" height="50" width="500">
+        <animate attributeName="width" values="0;0;500;500;0" keyTimes="0;.08;.45;.92;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <style>
+    .sans{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+    .kicker{font-size:14px;font-weight:700;letter-spacing:4px;fill:#00DEFE}
+    .name{font-size:52px;font-weight:800;fill:#F5F7FF}
+    .role{font-size:20px;fill:#B9B3D9}
+    .slogan{font-size:26px;font-weight:700}
+    .chip{font-size:13px;font-weight:600;fill:#E9E6FF}
+    .node{font-size:13px;font-weight:700;fill:#F5F7FF}
+    .orb{animation:drift 14s ease-in-out infinite alternate}
+    .orb2{animation:drift 18s ease-in-out infinite alternate-reverse}
+    .ring{transform-box:fill-box;transform-origin:center;animation:spin 24s linear infinite}
+    .pulse{animation:pulse 2.4s ease-in-out infinite}
+    .fade{animation:fade .9s ease-out both}
+    .d1{animation-delay:.1s}.d2{animation-delay:.35s}.d3{animation-delay:.6s}.d4{animation-delay:.9s}
+    .line{stroke-dasharray:6 8;animation:dash 3s linear infinite}
+    @keyframes drift{from{transform:translate(0,0)}to{transform:translate(40px,-20px)}}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    @keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+    @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+    @keyframes dash{to{stroke-dashoffset:-56}}
+    @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+    .cursor{animation:blink 1s step-end infinite}
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <circle class="orb" cx="980" cy="70" r="220" fill="url(#glowM)"/>
+    <circle class="orb2" cx="760" cy="300" r="200" fill="url(#glowC)"/>
+
+    <!-- texto -->
+    <text class="sans kicker" x="56" y="78">OLÁ, EU SOU</text>
+    <text class="sans name" x="56" y="136">Rogério Alencar Filho</text>
+    <text class="sans role" x="56" y="174">CEO &amp; fundador da KeyCore Tech Hub · Recife, Brasil</text>
+
+    <g clip-path="url(#typing)">
+      <text class="mono slogan" x="56" y="234" fill="url(#brand)" textLength="470" lengthAdjust="spacing">› Tecnologia que devolve tempo.</text>
+    </g>
+    <rect class="cursor" y="212" width="12" height="28" rx="2" fill="#FE00CD">
+      <animate attributeName="x" values="56;56;556;556;56" keyTimes="0;.08;.45;.92;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+
+    <g class="fade d4">
+      <rect x="56" y="262" width="118" height="30" rx="15" fill="#FFFFFF" fill-opacity=".06" stroke="#00DEFE" stroke-opacity=".5"/>
+      <text class="sans chip" x="115" y="282" text-anchor="middle">IA aplicada</text>
+      <rect x="184" y="262" width="168" height="30" rx="15" fill="#FFFFFF" fill-opacity=".06" stroke="#00DEFE" stroke-opacity=".5"/>
+      <text class="sans chip" x="268" y="282" text-anchor="middle">Software sob medida</text>
+      <rect x="362" y="262" width="70" height="30" rx="15" fill="#FFFFFF" fill-opacity=".06" stroke="#FE00CD" stroke-opacity=".5"/>
+      <text class="sans chip" x="397" y="282" text-anchor="middle">IoT</text>
+      <rect x="442" y="262" width="104" height="30" rx="15" fill="#FFFFFF" fill-opacity=".06" stroke="#FE00CD" stroke-opacity=".5"/>
+      <text class="sans chip" x="494" y="282" text-anchor="middle">Segurança</text>
+    </g>
+
+    <!-- grafo -->
+    <g fill="none" stroke-width="2">
+      <path id="p1" class="line" d="M965 165 L815 85" stroke="#00DEFE" stroke-opacity=".6"/>
+      <path id="p2" class="line" d="M965 165 L1115 85" stroke="#FE00CD" stroke-opacity=".6"/>
+      <path id="p3" class="line" d="M965 165 L815 250" stroke="#FE00CD" stroke-opacity=".6"/>
+      <path id="p4" class="line" d="M965 165 L1115 250" stroke="#00DEFE" stroke-opacity=".6"/>
+    </g>
+    <circle r="4" fill="#00DEFE"><animateMotion dur="2.2s" repeatCount="indefinite"><mpath href="#p1"/></animateMotion></circle>
+    <circle r="4" fill="#FE00CD"><animateMotion dur="2.6s" repeatCount="indefinite" begin=".4s"><mpath href="#p2"/></animateMotion></circle>
+    <circle r="4" fill="#FE00CD"><animateMotion dur="2.4s" repeatCount="indefinite" begin=".8s"><mpath href="#p3"/></animateMotion></circle>
+    <circle r="4" fill="#00DEFE"><animateMotion dur="2.8s" repeatCount="indefinite" begin="1.2s"><mpath href="#p4"/></animateMotion></circle>
+
+    <g class="ring">
+      <circle cx="965" cy="165" r="62" fill="none" stroke="url(#brand)" stroke-width="2" stroke-dasharray="4 10"/>
+    </g>
+    <circle class="pulse" cx="965" cy="165" r="46" fill="#0E002A" stroke="url(#brand)" stroke-width="3"/>
+    <text class="sans node" x="965" y="161" text-anchor="middle">KeyCore</text>
+    <text class="sans node" x="965" y="179" text-anchor="middle" fill="#00DEFE" style="fill:#00DEFE;font-size:11px">TECH HUB</text>
+
+    <g>
+      <circle cx="815" cy="85" r="34" fill="#140437" stroke="#00DEFE" stroke-width="2"/>
+      <text class="sans node" x="815" y="90" text-anchor="middle">IA</text>
+      <circle cx="1115" cy="85" r="34" fill="#140437" stroke="#FE00CD" stroke-width="2"/>
+      <text class="sans node" x="1115" y="90" text-anchor="middle">IoT</text>
+      <circle cx="815" cy="250" r="34" fill="#140437" stroke="#FE00CD" stroke-width="2"/>
+      <text class="sans node" x="815" y="255" text-anchor="middle">Software</text>
+      <circle cx="1115" cy="250" r="34" fill="#140437" stroke="#00DEFE" stroke-width="2"/>
+      <text class="sans node" x="1115" y="255" text-anchor="middle" style="font-size:11px">Segurança</text>
+    </g>
+
+    <rect x="0" y="316" width="1200" height="4" fill="url(#brand)"/>
+  </g>
+</svg>

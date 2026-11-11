@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-labelledby="title desc">
+  <title id="title">Linguagem principal dos repositórios</title>
+  <desc id="desc">Gráfico de rosca com a linguagem principal dos repositórios próprios.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0E002A"/><stop offset="1" stop-color="#1B0645"/></linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00DEFE"/><stop offset="1" stop-color="#FE00CD"/></linearGradient>
+    <linearGradient id="brandv" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#00DEFE"/><stop offset="1" stop-color="#FE00CD"/></linearGradient>
+  </defs>
+  <style>
+    text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+    .h{font-size:22px;font-weight:800;fill:#F5F7FF}
+    .s{font-size:14px;fill:#B9B3D9}
+    .l{font-size:15px;font-weight:600;fill:#F5F7FF}
+    .m{font-size:13px;fill:#B9B3D9}
+    .v{font-size:15px;font-weight:800;fill:#F5F7FF}
+    .grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.3s cubic-bezier(.2,.8,.2,1) both}
+    .growy{transform-box:fill-box;transform-origin:center bottom;animation:growy 1.2s cubic-bezier(.2,.8,.2,1) both}
+    .fade{animation:fade .8s ease-out both}
+    @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    @keyframes growy{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+    @keyframes fade{from{opacity:0}to{opacity:1}}
+</style>
+  <rect width="900" height="320" rx="16" fill="url(#bg)"/>
+  <rect x="0" y="0" width="900" height="4" rx="2" fill="url(#brand)"/>
+  <text class="h" x="36" y="46">Linguagem principal dos repositórios</text>
+  <text class="s" x="36" y="70">165 repositórios próprios com linguagem detectada · públicos e privados</text>
+  <mask id="draw"><circle cx="170" cy="198" r="80" fill="none" stroke="#fff" stroke-width="40" stroke-dasharray="502.65" stroke-dashoffset="502.65" transform="rotate(-90 170 198)"><animate attributeName="stroke-dashoffset" from="502.65" to="0" dur="1.6s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></circle></mask>
+  <g mask="url(#draw)" transform="rotate(-90 170 198)">
+    <circle cx="170" cy="198" r="80" fill="none" stroke="#00DEFE" stroke-width="30" stroke-dasharray="150.32 502.65" stroke-dashoffset="-0.00"/>
+    <circle cx="170" cy="198" r="80" fill="none" stroke="#FE00CD" stroke-width="30" stroke-dasharray="104.62 502.65" stroke-dashoffset="-152.32"/>
+    <circle cx="170" cy="198" r="80" fill="none" stroke="#10B981" stroke-width="30" stroke-dasharray="92.44 502.65" stroke-dashoffset="-258.94"/>
+    <circle cx="170" cy="198" r="80" fill="none" stroke="#FFB020" stroke-width="30" stroke-dasharray="89.39 502.65" stroke-dashoffset="-353.38"/>
+    <circle cx="170" cy="198" r="80" fill="none" stroke="#8B7FD1" stroke-width="30" stroke-dasharray="55.88 502.65" stroke-dashoffset="-444.77"/>
+  </g>
+  <text class="h" x="170" y="200" text-anchor="middle" style="font-size:30px">165</text>
+  <text class="m" x="170" y="220" text-anchor="middle">repositórios</text>
+  <g class="fade" style="animation-delay:0.30s">
+    <rect x="340" y="120" width="14" height="14" rx="4" fill="#00DEFE"/>
+    <text class="l" x="366" y="132">JavaScript</text>
+    <text class="v" x="810" y="132" text-anchor="end">30%</text>
+    <text class="m" x="870" y="132" text-anchor="end">50</text>
+  </g>
+  <g class="fade" style="animation-delay:0.42s">
+    <rect x="340" y="152" width="14" height="14" rx="4" fill="#FE00CD"/>
+    <text class="l" x="366" y="164">TypeScript</text>
+    <text class="v" x="810" y="164" text-anchor="end">21%</text>
+    <text class="m" x="870" y="164" text-anchor="end">35</text>
+  </g>
+  <g class="fade" style="animation-delay:0.54s">
+    <rect x="340" y="184" width="14" height="14" rx="4" fill="#10B981"/>
+    <text class="l" x="366" y="196">Python</text>
+    <text class="v" x="810" y="196" text-anchor="end">19%</text>
+    <text class="m" x="870" y="196" text-anchor="end">31</text>
+  </g>
+  <g class="fade" style="animation-delay:0.66s">
+    <rect x="340" y="216" width="14" height="14" rx="4" fill="#FFB020"/>
+    <text class="l" x="366" y="228">HTML/CSS</text>
+    <text class="v" x="810" y="228" text-anchor="end">18%</text>
+    <text class="m" x="870" y="228" text-anchor="end">30</text>
+  </g>
+  <g class="fade" style="animation-delay:0.78s">
+    <rect x="340" y="248" width="14" height="14" rx="4" fill="#8B7FD1"/>
+    <text class="l" x="366" y="260">Shell, C/C++, Arduino, C#, PHP, Dart</text>
+    <text class="v" x="810" y="260" text-anchor="end">12%</text>
+    <text class="m" x="870" y="260" text-anchor="end">19</text>
+  </g>
+  <text class="m fade" style="animation-delay:1.2s" x="340" y="294"><tspan fill="#FE00CD" font-weight="700">TypeScript lidera</tspan> os projetos novos de 2025–2026 (41%), seguido de Python (22%).</text>
+</svg>

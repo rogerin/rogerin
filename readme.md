@@ -1,187 +1,163 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<div align="center">
 
-<img align="right" width="420" alt="KeyCore Tech Hub" src="https://s11.gifyu.com/images/S4kek.gif" />
+<img src="./assets/header.svg" alt="Rogério Alencar Filho, CEO e fundador da KeyCore Tech Hub. Tecnologia que devolve tempo." width="100%" />
 
-### Rogério Alencar Filho  
-**CEO at KeyCore Tech Hub · Full Stack Web Developer · IoT and Security**
+<br/>
 
-[🌐 KeyCore Tech Hub](https://keycore.com.br) · [📸 Instagram @keycore.hub](https://www.instagram.com/keycore.hub/)  
+[![KeyCore Tech Hub](https://img.shields.io/badge/KeyCore_Tech_Hub-keycore.com.br-00DEFE?style=for-the-badge&labelColor=0E002A)](https://keycore.com.br)
+[![Instagram](https://img.shields.io/badge/@keycore.hub-FE00CD?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0E002A)](https://www.instagram.com/keycore.hub/)
+[![Recife](https://img.shields.io/badge/Recife-Brasil-10B981?style=for-the-badge&labelColor=0E002A)](#)
 
----
-
-### About me
-
-- 👨🏽‍💻 CEO da KeyCore Tech Hub e dev full stack focado em produtos digitais  
-- 🤖 Apaixonado por IoT e soluções conectadas para negócios reais  
-- 🛡 Especialista em Segurança da Informação e consultor em LGPD para empresas de tecnologia  
-- 👨‍🏫 Criador de conteúdo em tecnologia com cursos, projetos e e-books  
-- 🍕 Hobby. hackathons, cozinhar e experimentar ideias malucas que viram MVP  
-- ⚡ Sempre em algum equilíbrio estranho entre dieta e café  
+</div>
 
 ---
 
-### KeyCore Tech Hub in numbers
+## 👋 Sobre mim
 
-- 🚀 Projects. 50+  
-- 🚀 Startups atendidas. 30+  
-- 🎓 Students e profissionais impactados. 1000+  
+Sou CEO e fundador da **KeyCore Tech Hub** e escrevo código desde a época em que fazer um Arduino responder a uma requisição AJAX era novidade. De lá para cá, o foco mudou de "fazer funcionar" para **fazer a operação de uma empresa andar sozinha**: menos planilha, menos retrabalho, menos esforço manual.
 
-Transformamos ideias em **realidade digital** com um ecossistema que une  
-**startups, IoT, pentest, educação em tecnologia e consultoria**.
-
----
-
-## What I lead at KeyCore
-
-### Services . from idea to secure product
-
-**Core services that we deliver at KeyCore Tech Hub**
-
-- 🌐 **Web Development**  
-  Sites e aplicações web modernas, responsivas e otimizadas para SEO.  
-
-- 📱 **Mobile Development**  
-  Apps nativos e híbridos para iOS e Android.  
-
-- 🧭 **IT Consulting**  
-  Consultoria especializada para otimizar processos e decisões tecnológicas.  
-
-- 🎨 **UX and UI Design**  
-  Interfaces intuitivas, focadas em experiência de usuário e conversão.  
-
-- 🤖 **AI Chatbots**  
-  Chatbots com inteligência artificial integrados a canais de atendimento.  
-
-- 🌍 **Sites and Landing Pages**  
-  Páginas institucionais e de alta conversão para campanhas digitais.  
-
-- ⚙️ **DevOps and Cloud Infra**  
-  Otimização de infraestrutura em nuvem para reduzir custos e aumentar eficiência.  
-
-- 📡 **IoT . Internet of Things**  
-  Soluções completas de IoT, da prototipação de hardware até análise de dados.  
-
-- 🔐 **Pentest and Security**  
-  Testes de invasão, análise de vulnerabilidades e apoio a conformidade com LGPD.  
+- 🧠 Desenho e construo **agentes de IA, automações e software sob medida** para empresas em crescimento
+- 📡 Apaixonado por **IoT**: ESP32, sensores, MQTT, firmware e a ponte entre hardware e nuvem
+- 🛡️ Especialista em **segurança da informação**, pentest e consultor em **LGPD**
+- 👨‍🏫 Professor, autor e criador de conteúdo: cursos, workshops, e-books e um livro de IoT
+- 🏆 Veterano de hackathons, cozinheiro de fim de semana e criador de MVPs a partir de ideias malucas
+- ☕ Vivendo um equilíbrio delicado entre dieta e café
 
 ---
 
-### From coffee to MVP
+## 🔑 KeyCore Tech Hub
 
-Nosso fluxo para tirar ideias do papel.
+> **A KeyCore é uma parceira de transformação operacional que combina estratégia, engenharia humana, agentes de IA e software sob medida para ajudar empresas brasileiras a crescer com mais clareza, eficiência e capacidade de execução.**
 
-1. ☕ Café and Brainstorming  
-2. 💡 Concepção da Ideia  
-3. 🧩 Planejamento Estratégico  
-4. ⚙️ Desenvolvimento Ágil  
-5. 🚀 MVP funcional em produção  
+Crescer não deveria significar aumentar o caos. Em 2021 a KeyCore aplicou essa tese dentro de casa, mudou o próprio modelo e passou a trabalhar com uma ideia simples: **processo bem desenhado, integrado e automatizado devolve tempo**. Entramos na rotina real, encontramos onde o tempo está sendo perdido e implementamos o que resolve, com engenharia humana e agentes de IA trabalhando juntos.
 
----
+<div align="center">
 
-## Startups we are powering
+| 🚀 **50+** | 🧪 **30+** | 🎓 **1.000+** |
+| :---: | :---: | :---: |
+| projetos entregues | startups atendidas | alunos e profissionais formados |
 
-Algumas das startups que fazem parte do ecossistema que ajudo a liderar na KeyCore.
+</div>
 
-| Startup       | Segmento                         | O que faz                                                    |
-| ------------- | -------------------------------- | ------------------------------------------------------------ |
-| **JuryScan**  | LegalTech                        | IA para análise de documentos CNIS e processos previdenciários. |
-| **SmartDrink**| Food Tech                        | Monitoramento de estoque de bebidas com sensores IoT.        |
-| **Barber Key**| Gestão e Automação               | Sistema completo de agendamento para barbearias.             |
-| **MoodMove**  | HealthTech                       | Dispositivo IoT para medir ansiedade via movimento.          |
-| **StridApp**  | HealthTech                       | App para treinos, ritmo, distância e rotas seguras.          |
-| **MãeEduca**  | EdTech                           | App para apoiar pais no desenvolvimento infantil.            |
+### Como a KeyCore destrava uma operação
 
-Além disso, conduzimos projetos internos como.
+| Frente | O que muda na prática |
+| :--- | :--- |
+| ⚙️ **Automação aplicada** | Processos repetitivos deixam de depender de esforço manual |
+| 🔗 **Integrações que destravam** | Sistemas e áreas conversam, e o retrabalho entre times cai |
+| 🤖 **Soluções agênticas** | Agentes de IA apoiam análise, atendimento e execução no dia a dia |
+| 🧩 **Software sob medida** | Sistemas desenhados para a rotina da empresa, não para um processo genérico |
+| 📊 **Inteligência operacional** | Dados e fluxos viram visibilidade e decisão |
+| 🛡️ **Segurança, pentest e LGPD** · 📡 **IoT aplicada** · 🌐 **Plataformas digitais** | Capacidades complementares para fechar o ciclo |
 
-- 🗓 **Agenda KeyCore** . sistema inteligente de agendamentos com IA e automação  
-- 🌱 **Projeto de Irrigação com LoRa** . monitoramento agrícola conectado  
-- 📊 **NPS da KeyCore** . plataforma de feedback contínuo de clientes  
-- 🚀 **Simulador das Missões Apollo** . experiência educacional imersiva em engenharia e espaço  
+<img src="./assets/method.svg" alt="Método KeyCore em seis etapas: café e contexto, leitura de gargalos, plano de transformação, execução com segurança, ganho operacional e evolução contínua." width="100%" />
 
----
+### O ecossistema
 
-## KeyCore EDU . courses and e books
-
-### Courses
-
-🎓 **IoT na Prática**  
-
-Curso hands on de Internet das Coisas com foco em.
-
-- ESP32, sensores e eletrônica básica  
-- Protocolos IoT como MQTT e HTTP  
-- Integração com AWS IoT Core e nuvem  
-- Segurança em IoT e boas práticas  
-- Projetos reais, com kit incluso e certificação  
-
-> Online . 16h de conteúdo prático . Kit IoT físico incluso  
+- 🎓 **KeyCore Academy**: formação aplicada em IA, automação, IoT e segurança para profissionais e times
+- 🤝 **KeyCore Community**: comunidades *IA para Empreendedores* e *IoT na Prática*
+- 🧪 **Hub de Negócios**: onde aplicamos o próprio método para criar, validar e evoluir produtos internos
 
 ---
 
-### E books
+## 🚀 Open source mais recente: `wa-farm`
 
-📚 **Free e books**
+<a href="https://github.com/rogerin/wa-farm">
+  <img src="./assets/wa-farm.svg" alt="wa-farm: cerca de 850 MB de RAM por instância, contra 4,2 GB do emulador Android padrão, uma redução de 78%." width="100%" />
+</a>
 
-- **O que é Internet das Coisas**  
-  Guia introdutório sobre IoT, hardware e sensores.  
+Ativar e manter várias contas de WhatsApp para integrações (Evolution API, WAHA, Baileys, WhatsMeow, Chatwoot) costuma exigir uma gaveta de celulares ou uma máquina com 32 GB de RAM. O **wa-farm** é um orquestrador CLI que sobe emuladores Android isolados com **7 otimizações de baixo nível** e cai para **~850 MB por instância**.
 
-- **Domine o Microlearning e Transforme Minutos em Conhecimento Duradouro**  
-  Como criar conteúdos curtos e eficientes para aulas, cursos e treinamentos.  
+- 🪶 Imagem **AOSP pura**, sem Google Play Services, e APK oficial instalado direto da CDN
+- 🖥️ Framebuffer `360x640`, 1 core, sem áudio, sem snapshots e com **modo headless**
+- 🫀 **Heartbeat semanal**: liga cada conta em fila, renova a sessão multi-device de 14 dias e desliga
+- 🤖 Vem com **skill para agentes de IA** (Claude Code, Codex, Gemini CLI) operarem a fazenda por comando
 
-💼 **Premium e books**
+```bash
+git clone https://github.com/rogerin/wa-farm.git && cd wa-farm
+./install-skill.sh && ./wa-farm.sh bootstrap 1
+```
 
-- **Estratégias de Privacidade e Segurança Digital**  
-  E book focado em proteção de dados, privacidade e LGPD.  
-  Escrito por **Rogério Alencar Filho** como especialista em segurança da informação e consultor em LGPD.  
-
-- **IoT na Prática. Projetos Inteligentes para um Mundo Conectado**  
-  Guia prático de IoT com ESP32 e AWS IoT Core para projetos conectados.  
-
----
-
-## Tech behind the Hub
-
-Na KeyCore, liderei ou participei de projetos com tecnologias como.
-
-- ⚛️ **Front end**. React para dashboards, apps web e interfaces ricas  
-- 🟩 **Back end**. Node.js, Python, Django em soluções de gestão e análise  
-- ☁️ **Cloud and IoT**. AWS IoT, integrações com serviços em nuvem, automação com n8n  
-- 🗄 **Data**. PostgreSQL, MongoDB e análises preditivas em cenários de negócios  
-- 🔐 **Security**. Pentest, LGPD, estratégias de privacidade e proteção de dados  
+👉 **[Repositório](https://github.com/rogerin/wa-farm)** · **[Página e calculadora de RAM](https://rogerin.github.io/wa-farm/)**
 
 ---
 
-## Community, content and life
+## 🔒 O que construo nos bastidores
 
-- 💬 Crio conteúdo sobre IoT, segurança e produtos digitais  
-- 🧪 Curto experimentar ideias de startups em sprints rápidos  
-- 👨‍🍳 Quando não estou programando, provavelmente estou cozinhando algo ou em um hackathon  
-- ⚡ Fun fact. estou de dieta, mas código e café ainda são carboidratos emocionais  
+A maior parte do meu trabalho vive em **repositórios privados**, de clientes e de produtos da KeyCore. Os nomes ficam de fora, mas dá para mostrar o tipo de problema que resolvemos:
 
----
+<img src="./assets/categories.svg" alt="Projetos privados por categoria: IA aplicada e agentes 24, apps e plataformas digitais 18, IoT 15, SaaS de gestão vertical 15, educação 10, ferramentas e automação 10, saúde 9, sites 5, segurança 3." width="100%" />
 
-## Find me
-
-📫 **Social**
-
-- Instagram pessoal. [@rogerioalencarfilho](https://www.instagram.com/rogerioalencarfilho/)  
-- LinkedIn. [linkedin.com/in/rogeriofilho](https://www.linkedin.com/in/rogeriofilho/)  
-- Facebook. [facebook.com/rogerioalencar](https://www.facebook.com/rogerioalencar)  
-- E mail. [geriofilho@gmail.com](mailto:geriofilho@gmail.com)  
-
-🏢 **KeyCore Tech Hub**
-
-- Site. [keycore.com.br](https://keycore.com.br)  
-- Instagram. [@keycore.hub](https://www.instagram.com/keycore.hub/)  
-- Recife, PE . Brasil  
+| Categoria | Tipos de projeto | Stack mais comum |
+| :--- | :--- | :--- |
+| 🤖 **IA aplicada e agentes** | Auditoria de documentos previdenciários e contratos, extração estruturada de PDFs, agentes de atendimento e de pesquisa, texto para voz, geração de roteiros e personas | Python, FastAPI, LangChain, OpenAI, TypeScript |
+| 📱 **Apps e plataformas digitais** | Mobilidade compartilhada, apoio à educação infantil, treinos e ritmo, turismo, palpites, redes e jogos sociais, live commerce | React, React Native, Capacitor, Node.js, Supabase |
+| 📡 **IoT, hardware e telemetria** | Detecção de pedras em esteiras de moagem, simuladores de telemetria, monitoramento de áudio, plantas conectadas, totens de feedback urbano, firmware próprio | ESP32, C++, MicroPython, MQTT, Socket.IO, AWS IoT |
+| 🏢 **SaaS de gestão vertical** | Gestão de academias e redes fitness, obras, hotelaria inteligente, equipes e escalas, agendamento, treinamentos, gestão de ideias | React, Next.js, Supabase, PostgreSQL, .NET, Flutter |
+| 🏥 **Saúde e faturamento hospitalar** | Portais de recebíveis, tratamento de glosas, faturamento hospitalar e observabilidade para operação de saúde de grande porte | React, Node.js, ELK |
+| 🛡️ **Segurança e pentest** | Testes de invasão em aplicações web, monitoramento de rede e laboratórios de ataque e defesa | OWASP, Python, Shell |
+| 🎓 **Educação** | Cursos de IoT, MicroPython, pentest e Clean Architecture, trilhas e projetos de hackathon | Python, Node.js, ESP32 |
+| 🧰 **Ferramentas internas** | Backups, uploads temporários, downloaders, geração de tokens, QR codes e utilitários de automação | Python, Shell, Docker |
+| 🌐 **Sites e presença digital** | Sites institucionais, landing pages de alta conversão e guias de design | Next.js, Vite, Tailwind |
 
 ---
 
-    // From idea to IoT, from MVP to production
-    const keycore = {
-      ceo: "Rogério Alencar Filho",
-      focus: ["IoT", "Security", "Startups", "Education"],
-      motto: "Transform ideas into digital reality"
-    }
+## 🧰 Tecnologias
 
-    console.log("KeyCore Tech Hub ready to ship 🚀", keycore)
+**Linguagens**
+
+[![Linguagens](https://skillicons.dev/icons?i=ts,js,python,cpp,cs,dart,php,bash&perline=12)](#-tecnologias)
+
+**Front-end e mobile**
+
+[![Front-end](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,angular,flutter,figma&perline=12)](#-tecnologias)
+
+**Back-end e dados**
+
+[![Back-end](https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,flask,prisma,postgres,supabase,redis,mongodb,firebase&perline=12)](#-tecnologias)
+
+**Infra e qualidade**
+
+[![Infra](https://skillicons.dev/icons?i=docker,aws,githubactions,linux,nginx,cloudflare,vercel,jest,git&perline=12)](#-tecnologias)
+
+**IoT, IA e automação**
+
+[![IoT](https://skillicons.dev/icons?i=arduino,raspberrypi&perline=12)](#-tecnologias)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+---
+
+## 📈 Em números
+
+<img src="./assets/languages.svg" alt="Linguagem principal dos repositórios: JavaScript 30%, TypeScript 21%, Python 19%, HTML e CSS 18%, outras 12%." width="100%" />
+
+<img src="./assets/timeline.svg" alt="Repositórios criados por ano, de 2012 a 2026, com forte crescimento em 2025 e 2026." width="100%" />
+
+---
+
+## 🎓 Fora do código
+
+- 📘 Autor do livro **IoT na Prática: Projetos Inteligentes para um Mundo Conectado** (ESP32 + AWS IoT Core)
+- 🎥 Curso **IoT na Prática**: 16 h hands-on, com kit físico, MQTT, AWS IoT Core e segurança em IoT
+- 🔐 E-book **Estratégias de Privacidade e Segurança Digital**, focado em proteção de dados e LGPD
+- 🧑‍💼 Workshops para lideranças sobre IA, dados e decisão
+- 🏆 Participante frequente de hackathons sobre cidades inteligentes, saúde e finanças
+
+---
+
+<div align="center">
+
+### ☕ Mais clareza sobre sua operação pode começar com um café
+
+[![Agendar um café](https://img.shields.io/badge/Agendar_um_café-keycore.com.br-FE00CD?style=for-the-badge&labelColor=0E002A)](https://keycore.com.br)
+
+<sub>**Tecnologia que devolve tempo.**</sub>
+
+</div>
